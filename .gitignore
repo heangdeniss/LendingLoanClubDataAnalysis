@@ -2,6 +2,9 @@
 Data/
 concat/
 
+# Power BI (binary, too large for git)
+*.pbix
+*.pbit
 # Python
 __pycache__/
 *.py[cod]
