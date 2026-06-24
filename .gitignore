@@ -1,0 +1,24 @@
+# Data (large files — do not commit)
+Data/
+concat/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Helper/patch scripts
+patch_ann_cell.py
+ann_model.py
+
+# OS
+.DS_Store
+Thumbs.db
